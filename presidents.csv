@@ -1,0 +1,47 @@
+id,country,sequence,position,party,name,term_start,term_end,links,notes
+1,USA,1,President,Independent,George Washington,17890430,17970304,http://en.wikipedia.org/wiki/George_Washington,Home State: Virginia
+2,USA,2,President,Federalist,John Adams,17970304,18010304,http://en.wikipedia.org/wiki/John_Adams,Home State: Massachusetts
+3,USA,3,President,Democratic-Republican,Thomas Jefferson,18010304,18090304,http://en.wikipedia.org/wiki/Thomas_Jefferson,Home State: Virginia
+4,USA,4,President,Democratic-Republican,James Madison,18090304,18170304,http://en.wikipedia.org/wiki/James_Madison,Home State: Virginia
+5,USA,5,President,Democratic-Republican,James Monroe,18170304,18250304,http://en.wikipedia.org/wiki/James_Monroe,Home State: Virginia
+6,USA,6,President,Democratic-Republican/National Republican,John Quincy Adams,18250304,18290304,http://en.wikipedia.org/wiki/John_Quincy_Adams,Home State: Massachusetts
+7,USA,7,President,Democratic,Andrew Jackson,18290304,18370304,http://en.wikipedia.org/wiki/Andrew_Jackson,Home State: Tennessee
+8,USA,8,President,Democratic,Martin Van Buren,18370304,18410304,http://en.wikipedia.org/wiki/Martin_Van_Buren,Home State: New York
+9,USA,9,President,Whig,William Henry Harrison,18410304,18410404,http://en.wikipedia.org/wiki/William_Henry_Harrison,Home State: Ohio
+10,USA,10,President,Whig,John Tyler,18410404,18450304,http://en.wikipedia.org/wiki/John_Tyler,Home State: Virginia
+11,USA,11,President,Democratic,James K. Polk,18450304,18490304,http://en.wikipedia.org/wiki/James_K._Polk,Home State: Tennessee
+12,USA,12,President,Whig,Zachary Taylor,18490304,18500709,http://en.wikipedia.org/wiki/Zachary_Taylor,Home State: Louisiana
+13,USA,13,President,Whig,Millard Fillmore,18500709,18530304,http://en.wikipedia.org/wiki/Millard_Fillmore,Home State: New York
+14,USA,14,President,Democratic,Franklin Pierce,18530304,18570304,http://en.wikipedia.org/wiki/Franklin_Pierce,Home State: New Hampshire
+15,USA,15,President,Democratic,James Buchanan,18570304,18610304,http://en.wikipedia.org/wiki/James_Buchanan,Home State: Pennsylvania
+16,USA,16,President,Republican/National Union,Abraham Lincoln,18610304,18650415,http://en.wikipedia.org/wiki/Abraham_Lincoln,Home State: Illinois
+17,USA,17,President,Democratic/National Union,Andrew Johnson,18650415,18690304,http://en.wikipedia.org/wiki/Andrew_Johnson,Home State: Tennessee
+18,USA,18,President,Republican,Ulysses S. Grant,18690304,18770304,http://en.wikipedia.org/wiki/Ulysses_S._Grant,Home State: Ohio
+19,USA,19,President,Republican,Rutherford B. Hayes,18770304,18810304,http://en.wikipedia.org/wiki/Rutherford_B._Hayes,Home State: Ohio
+20,USA,20,President,Republican,James A. Garfield,18810304,18810919,http://en.wikipedia.org/wiki/James_A._Garfield,Home State: Ohio
+21,USA,21,President,Republican,Chester A. Arthur,18810919,18850304,http://en.wikipedia.org/wiki/Chester_A._Arthur,Home State: New York
+22,USA,22,President,Democratic,Grover Cleveland,18850304,18890304,http://en.wikipedia.org/wiki/Grover_Cleveland,Home State: New York
+23,USA,23,President,Republican,Benjamin Harrison,18890304,18930304,http://en.wikipedia.org/wiki/Benjamin_Harrison,Home State: Indiana
+24,USA,24,President,Democratic,Grover Cleveland,18930304,18970304,http://en.wikipedia.org/wiki/Grover_Cleveland,Home State: New York
+25,USA,25,President,Republican,William McKinley,18970304,19010914,http://en.wikipedia.org/wiki/William_McKinley,Home State: Ohio
+26,USA,26,President,Republican,Theodore Roosevelt,19010914,19090304,http://en.wikipedia.org/wiki/Theodore_Roosevelt,Home State: New York
+27,USA,27,President,Republican,William Howard Taft,19090304,19130304,http://en.wikipedia.org/wiki/William_Howard_Taft,Home State: Ohio
+28,USA,28,President,Democratic,Woodrow Wilson,19130304,19210304,http://en.wikipedia.org/wiki/Woodrow_Wilson,Home State: New Jersey
+29,USA,29,President,Republican,Warren G. Harding,19210304,19230802,http://en.wikipedia.org/wiki/Warren_G._Harding,Home State: Ohio
+30,USA,30,President,Republican,Calvin Coolidge,19230802,19290304,http://en.wikipedia.org/wiki/Calvin_Coolidge,Home State: Massachusetts
+31,USA,31,President,Republican,Herbert Hoover,19290304,19330304,http://en.wikipedia.org/wiki/Herbert_Hoover,Home State: Iowa
+32,USA,32,President,Democratic,Franklin D. Roosevelt,19330304,19450412,http://en.wikipedia.org/wiki/Franklin_D._Roosevelt,Home State: New York
+33,USA,33,President,Democratic,Harry S. Truman,19450412,19530120,http://en.wikipedia.org/wiki/Harry_S._Truman,Home State: Missouri
+34,USA,34,President,Republican,Dwight D. Eisenhower,19530120,19610120,http://en.wikipedia.org/wiki/Dwight_D._Eisenhower,Home State: Texas
+35,USA,35,President,Democratic,John F. Kennedy,19610120,19631122,http://en.wikipedia.org/wiki/John_F._Kennedy,Home State: Massachusetts
+36,USA,36,President,Democratic,Lyndon B. Johnson,19631122,19690120,http://en.wikipedia.org/wiki/Lyndon_B._Johnson,Home State: Texas
+37,USA,37,President,Republican,Richard Nixon,19690120,19740809,http://en.wikipedia.org/wiki/Richard_Nixon,Home State: California
+38,USA,38,President,Republican,Gerald Ford,19740809,19770120,http://en.wikipedia.org/wiki/Gerald_Ford,Home State: Michigan
+39,USA,39,President,Democratic,Jimmy Carter,19770120,19810120,http://en.wikipedia.org/wiki/Jimmy_Carter,Home State: Georgia
+40,USA,40,President,Republican,Ronald Reagan,19810120,19890120,http://en.wikipedia.org/wiki/Ronald_Reagan,Home State: California
+41,USA,41,President,Republican,George H. W. Bush,19890120,19930120,http://en.wikipedia.org/wiki/George_H._W._Bush,Home State: Texas
+42,USA,42,President,Democratic,Bill Clinton,19930120,20010120,http://en.wikipedia.org/wiki/Bill_Clinton,Home State: Arkansas
+43,USA,43,President,Republican,George W. Bush,20010120,20090120,http://en.wikipedia.org/wiki/George_W._Bush,Home State: Texas
+44,USA,44,President,Democratic,Barack Obama,20090120,20170120,http://en.wikipedia.org/wiki/Barack_Obama,Home State: Illinois
+45,USA,45,President,Republican,Donald J. Trump,20170120,20210120,http://en.wikipedia.org/wiki/Donald_Trump,Home State: Florida 
+46,USA,46,President,Democratic,Joseph R. Biden,20210120,,http://en.wikipedia.org/wiki/Joe_Biden,Home State: Delaware 
