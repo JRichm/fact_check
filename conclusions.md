@@ -61,7 +61,15 @@ Clinton claimed to be looking at 52 years of data starting from 1961, which woul
 ## Final Verdict
 Clinton's claims about job creation were mostly accurate, but his mastery of space-time remains unconfirmed.
 
-
-plz don't dock me for sarcasm, I had a lot of fun with this assignment.
+## Notes
+plz don't dock me for sarcasm, I had a lot of fun with this assignment  c:
 also, I wasn't able to get the BLS data from the assignment so I downloaded it from https://data.bls.gov/
-if you want to run my functions with the same data
+I will upload all files to the canvas assignment but if you want to run the code yourself, you can find all files @ https://github.com/JRichm/fact_check
+
+requirements:
+    - pandas
+    - matplotlib
+ 
+or
+
+``` pip install -r requirements.txt ```
