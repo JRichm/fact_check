@@ -276,8 +276,8 @@ def graph_validate_score(party_jobs):
 
 
 if __name__ == "__main__":
-    presidents_csv = "presidents.csv"
-    jobs_csv = "jobs.csv"
+    presidents_csv = "presidents.txt"
+    jobs_csv = "BLS_private.csv"
 
     presidents_df = open_presidents(presidents_csv)
     monthly_jobs = open_jobs(jobs_csv)
